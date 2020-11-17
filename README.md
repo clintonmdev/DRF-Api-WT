@@ -15,4 +15,7 @@ Example :
       curl -si http://localhost:8080/forecast/paris/
       
 
+
+
+
 Technology used: Python, DRF.
