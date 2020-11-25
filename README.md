@@ -2,7 +2,7 @@
 Weather application :
 This API provides a weather forecast for a given city.
 
-The Service.
+The Service
 +++++++++++++++++++++
 
 You can make calls against this web service using curl.
