@@ -18,4 +18,4 @@ Example :
 
 
 
-Technology used: Python, DRF.
+Technology used: Python, DRF
